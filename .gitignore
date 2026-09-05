@@ -1,0 +1,9 @@
+@"
+.venv/
+.env
+__pycache__/
+*.pyc
+audio/
+*.wav
+.streamlit/
+"@ | Set-Content .gitignore

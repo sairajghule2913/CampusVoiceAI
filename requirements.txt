@@ -1,0 +1,9 @@
+@"
+streamlit
+faster-whisper
+requests
+python-dotenv
+soundfile
+scikit-learn
+piper-tts
+"@ | Set-Content requirements.txt
